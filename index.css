@@ -1,0 +1,55 @@
+body {
+    background-image: url("the-batman-2022-red-0w-1920x1080.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    background-size: 100% 120%;
+}
+
+.container {
+    max-width: 80%;
+    margin: 265px 120px 0px auto;
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #C81B1C;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+
+
+#increment-btn {
+    background: #C81B1C;
+    color: #35090A;
+}
+
+#save-btn {
+    border: 1px solid #C81B1C;
+    background: #35090A;
+    color: #C81B1C;
+}
+
+#save-el {
+    color: #C81B1C;
+    font-weight: bold;
+}
+
